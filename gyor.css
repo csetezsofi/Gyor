@@ -62,7 +62,7 @@ li a:hover {
         width: 450px;
         float: right;
 }
-
+/*10. feladat meg volt oldva*/
 #lablec {
         background-color: #333;
         width: 1000px;
@@ -70,7 +70,6 @@ li a:hover {
         margin: auto;
         height: 60px;
         padding-top: 40px;
-        
         clear: both;
 }
 
