@@ -75,7 +75,13 @@ li a:hover {
 
 #lablec a {
         text-align: center;
-        font-size: 16pt;
+        font-size: 12pt;
+        color: white;
+}
+
+#lablec a:hover{
+        font-weight: bold;
+        color: #1D597B;
 }
 /*5. feladat meg volt oldva*/
 #fejlec{
