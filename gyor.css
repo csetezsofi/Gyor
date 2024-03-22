@@ -40,7 +40,8 @@ li a:hover {
         background-color: #1D597B;
 }
 /*8. feladat meg volt oldva*/
-.cikk {
+
+#cikk {
         width: 1000px;
         float: left;
         text-align: justify;
@@ -48,14 +49,14 @@ li a:hover {
 }
 
 
-.bal {
+#bal {
         margin-left: 20px;
         margin-top: 20px;
         width: 450px;
         float: left;
 }
 
-.jobb {
+#jobb {
         margin-right: 20px;
         margin-top: 20px;
         width: 450px;
@@ -90,7 +91,7 @@ li a:hover {
         margin: auto;
 }
 
-.kepek{
+#kepek{
         width: 450px;
         border: 1px solid white;
 }
